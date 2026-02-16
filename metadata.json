@@ -1,0 +1,8 @@
+{
+  "name": "MiMi RPG Bot Studio",
+  "description": "A comprehensive management and emulation studio for the MiMi Games Telegram RPG Bot, featuring AI-powered character generation, lore chatting, and cinematic video animations using Gemini and Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
